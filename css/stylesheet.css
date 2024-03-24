@@ -1,0 +1,15 @@
+h1, h2, h3, p {
+    color: crimson;
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+}
+a:hover {
+    color: white !important;
+}
+
+body {
+    background-color: rgb(8, 8, 27);
+}
